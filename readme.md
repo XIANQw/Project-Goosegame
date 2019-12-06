@@ -1,4 +1,4 @@
-# TP9 GooseGame
+# GooseGame
 
 ## AUTEURS :
 - XIAN Qiwei
@@ -6,7 +6,7 @@
 - LIN Dixuan
 - Youva MOKEDDES
 
-## Présentation de TP9
+## Présentation
 
 Programmer une application de jeu de l'oie. Cela permet d'ajouter plusieur de joueurs et
 on peut voir le processus du jeu.
@@ -15,7 +15,7 @@ on peut voir le processus du jeu.
 
 ### générer et consulter la documentation
 
-Ce TP est composé par dossiers:
+Ce projet est composé par dossiers:
 - src : Ce dossier contient les fichiers sources .java
 - classes : Il y a les fichiers compilés .class
 - doc : Pour contenir les fichiers des documentations
