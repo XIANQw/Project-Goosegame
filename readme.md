@@ -13,7 +13,7 @@ on peut voir le processus du jeu.
 
 ## Instructions pour:
 
-### générer et consulter la documentation
+### Générer et consulter la documentation
 
 Ce projet est composé par dossiers:
 - src : Ce dossier contient les fichiers sources .java
@@ -26,7 +26,7 @@ Pour voir les détails de chaque class, vous pouvez taper cette commande pour im
 make doc
 ```
 
-### compiler les sources du projet
+### Compiler les sources du projet
 
 Pour compiler les fichiers sources, vous utilisez cette commande.
 ```
@@ -34,7 +34,7 @@ make file
 ```
 
 
-### compiler et exécuter les tests
+### Compiler et exécuter les tests
 
 Pour compiler les fichiers tests, vous tapez la commande
 ```
@@ -44,7 +44,7 @@ après vous voyez tous les tests passés.
 
 
 
-### générer le fichier.jar
+### Générer le fichier.jar
 Pour implanter un fichier exécutable.jar, vous utilisez cette commande
 ```
 make jar
@@ -52,7 +52,7 @@ make jar
 le fichier manifest-ex peut créer automatiquement et ajouter Main-Class par soi-même.
 
 
-### exécuter le programme
+### Exécuter le programme
 
 Tout d'abord il faut déclarer la classe main dans un fichier "mainifest-ex",
 On écrit "Main-Class: goosegame.Main": url "title" dans ce fichier, après on exécute le programme .jar
